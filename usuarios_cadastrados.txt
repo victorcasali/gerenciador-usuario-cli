@@ -1,0 +1,6 @@
+2;Bruno;32;M
+3;Carla;28;F
+4;Costa;29;M
+5;Elaine;30;F
+6;Victor;29;m
+7;Indiara;28;F
